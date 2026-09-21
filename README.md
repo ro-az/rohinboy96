@@ -1,7 +1,7 @@
-<h1 align="center">Hello, I'm Sahdullah Azizian</h1>
+<h1 align="center">Hello, I'm Rohin Azizian</h1>
 <h3 align="center">A Computer Science & Economics Student</h3>
 
-- 📫 How to reach me **sahdullah.azizian@outlook.de**
+- 📫 How to reach me **rohin.azizian@outlook.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
